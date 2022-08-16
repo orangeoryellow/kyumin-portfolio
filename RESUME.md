@@ -3,11 +3,11 @@
 ## Education Histroy
 - Mcintosh High School 2022-2025
 - take animation 2022-present
-- graduated middle school in korea
+- graduated middle school and elemtary school in korea
 
 ### Empolyment History
-- volunteered to sell juice at the event
-- picked up trash on the street
+- volunteered to sell juice at the event 2019
+- picked up trash on the street 2018-2020
 
 #### Hobbbies
 - playing games, league of legends
