@@ -10,3 +10,5 @@
 -picked up trash on the street
 
 #### Hobbbies
+-playing games, league of legends
+palying basketball
