@@ -2,14 +2,14 @@
 
 ## Education Histroy
 - Mcintosh High School 2022-present
-- take animation 2022-present
-- president of class in korea
+- Take animation 2022-present
+- President of class in korea
 
 ## Empolyment History
-- volunteered to sell juice at the event 2019
-- picked up trash on the street 2018-2020
+- Volunteered to sell juice at the event 2019
+- Picked up trash on the street 2018-2020
 
 ## Hobbbies
-- playing games, league of legends
-- palying basketball
-- drawing
+- Playing games, league of legends
+- Playing basketball
+- Drawing
