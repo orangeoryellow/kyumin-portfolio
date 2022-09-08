@@ -1,6 +1,6 @@
 # Binary Logic
 
-## Truth tables
+## Truth Tables
 
 Not
 | A | !A |
@@ -11,11 +11,9 @@ Not
 And
 | A | B | A and B |
 | --- | --- | --- |
-| 1 | 1 | 1 |
-| 1 | 0 | 0 |
-| 0 | 1 | 0 |
-| 0 | 0 | 0 |
+| 1 | 1 |  |
+| 1 | 0 |  |
+| 0 | 1 |  |
+| 0 | 0 |  |
 
 Or
-| A | B | A or B |
-]
