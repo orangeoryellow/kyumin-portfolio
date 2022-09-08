@@ -3,3 +3,4 @@ Hello, my name is Kyumin Kim and this is my portfolio for Intro Software Technol
 
 ## Contents
 - [Resume](RESUME.md)
+- [Binary Logic](Binary-Logic.md)
