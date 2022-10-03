@@ -13,3 +13,10 @@
 - Playing games, league of legends
 - Playing basketball
 - Drawing
+
+## Typing
+- Keys Learned
+  - J, F, Space
+  - U, R, K
+  - D, E, I
+  - C, G, N
