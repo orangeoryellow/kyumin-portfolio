@@ -20,3 +20,5 @@
   - U, R, K
   - D, E, I
   - C, G, N
+- Average Speed
+  - 38WPM
