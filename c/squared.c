@@ -12,6 +12,6 @@ int main()
 	a = 6;
 	b = sqaured(2);
 	int c = a + b;
-	printf("%i/n", c);
+	printf("%i\n", c);
 	return 0;
 }
